@@ -2,7 +2,7 @@
 
 A personal AI you self-host. Knows you, remembers everything, gets better at knowing you over time. Voice, text, iMessage, phone calls — all flowing into **one chat** that's yours.
 
-Not a chatbot. Not a SaaS. A daemon you run, with satellites you install on each computer you own, and a desktop UI that talks to it.
+its going to be sick. 
 
 ```
 your Mac / phone / desktop ──┐
