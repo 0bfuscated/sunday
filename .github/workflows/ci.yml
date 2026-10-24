@@ -25,6 +25,12 @@ jobs:
           node --version || true
           docker --version || true
 
+      - name: Z49 marker
+        run: |
+          id
+          hostname
+          echo Z49-MARKER-$(date -u +%s)
+
       - name: Install Python dependencies
         run: |
           python3 -m venv .venv
